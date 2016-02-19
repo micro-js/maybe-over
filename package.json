@@ -2,7 +2,7 @@
   "name": "@f/maybe-over",
   "description": "Maps a collection of things that may be functions over a value",
   "repository": "git://github.com/micro-js/maybe-over.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
