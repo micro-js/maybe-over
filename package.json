@@ -1,0 +1,18 @@
+{
+  "name": "@f/maybe-over",
+  "description": "Maps a collection of things that may be functions over a value",
+  "repository": "git://github.com/micro-js/maybe-over.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish --access=public"
+  },
+  "dependencies": {
+    "@f/is-function": "^1.1.1",
+    "@f/map-array": "^1.2.1"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
